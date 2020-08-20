@@ -238,7 +238,7 @@ GO
 ```  
 <Root>  
 <ProductDescription ProductID="1" ProductName="Road Bike">  
-<Features> &lt;notxml@gt; as text &lt;/notxml&gt; or cdata </Features>  
+<Features> &lt;notxml&gt; as text &lt;/notxml&gt; or cdata </Features>  
 </ProductDescription>  
 </Root>       
 ```  
